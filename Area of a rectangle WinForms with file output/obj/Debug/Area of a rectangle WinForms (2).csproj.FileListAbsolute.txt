@@ -1,0 +1,19 @@
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\bin\Debug\Area of a rectangle WinForms (2).exe.config
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\bin\Debug\Area of a rectangle WinForms (2).exe
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\bin\Debug\Area of a rectangle WinForms (2).pdb
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\obj\Debug\Area_of_a_rectangle_WinForms__2_.Area_of_a_Rectangle_Calculator.resources
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\obj\Debug\Area_of_a_rectangle_WinForms__2_.Properties.Resources.resources
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).csproj.GenerateResource.cache
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).csproj.CoreCompileInputs.cache
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).exe
+D:\OneDrive - The Education Training Collective\IT\Unit 04 - Software Design and Development\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).pdb
+H:\Programming\C#\Area of a rectangle WinForms (2)\bin\Debug\Area of a rectangle WinForms (2).exe.config
+H:\Programming\C#\Area of a rectangle WinForms (2)\bin\Debug\Area of a rectangle WinForms (2).exe
+H:\Programming\C#\Area of a rectangle WinForms (2)\bin\Debug\Area of a rectangle WinForms (2).pdb
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).csproj.AssemblyReference.cache
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area_of_a_rectangle_WinForms__2_.Area_of_a_Rectangle_Calculator.resources
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area_of_a_rectangle_WinForms__2_.Properties.Resources.resources
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).csproj.GenerateResource.cache
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).csproj.CoreCompileInputs.cache
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).exe
+H:\Programming\C#\Area of a rectangle WinForms (2)\obj\Debug\Area of a rectangle WinForms (2).pdb
